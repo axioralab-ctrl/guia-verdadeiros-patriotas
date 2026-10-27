@@ -1,4 +1,4 @@
-const CHECKOUT_URL = "PASTE_CHECKOUT_URL_HERE";
+const CHECKOUT_URL = "https://pay.kirvano.com/413c7028-8429-45d1-ae69-4eee79a7581d";
 
 document.documentElement.classList.add('js');
 const menuButton = document.querySelector('.menu-toggle');
